@@ -1,0 +1,11 @@
+field1^|^field2^|^field3
+123^|^John Doe^|^john.doe@example.com
+456^|^Jane Doe^|^jane.doe@example.com
+789^|^Invalid Value^|^invalid email
+0^|^Test User^|^test.user@example.com
+111^|^No Email^|^
+222^|^Empty Field^|^
+333^|^Another User^|^another.user@example.com
+444^|^Yet Another User^|^yet.another.user@example.com
+555^|^One More User^|^one.more.user@example.com
+666^|^Final User^|^final.user@example.com

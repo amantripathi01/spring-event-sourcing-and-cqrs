@@ -1,0 +1,11 @@
+email^|^commit-hash
+john.doe@example.com^|^928d28d
+jane.doe@example.com^|^z1n09ub
+qwerty@domain.com^|^abc1234
+invalid_email^|^def4567
+user@website^|^ghj8901
+no_at_symbol.com^|^ijk0123
+.test@domain.com^|^lmn4567
+user@.com^|^opq7890
+user@website.com^|^
+@website.com^|^rst0123

@@ -1,0 +1,11 @@
+id^|^did^|^name^|^image^|^email^|^settings^|^createdAt^|^updatedAt
+497f6eca-6276-4993-bfeb-53cbbbba6f08^|^string^|^John Doe^|^https://cdn.credentialregiater.com/2571c54e-2cde-4434-83f2-c329f74adc27.png^|^johndoe@example.com^|^{}^|^2019-08-24T14:15:22Z^|^2019-08-24T14:15:22Z
+3bca33f2-7aca-4c9b-a73c-14a29056adcb^|^string^|^Jane Smith^|^https://cdn.credentialregiater.com/2a6b3c4d-5e7f-4468-b28c-d30e4932f32e.png^|^janesmith@example.com^|^{}^|^2019-08-25T10:15:22Z^|^2019-08-25T10:15:22Z
+9a3b7c5e-6f8d-493a-b40e-57c2319c3a6f^|^string^|^Robert Brown^|^https://cdn.credentialregiater.com/3b7c5d6e-7f9d-4a8b-9c0e-68d231e3f4af.png^|^robertbrown@example.com^|^{}^|^2019-08-26T16:15:22Z^|^2019-08-26T16:15:22Z
+5c7d8e9f-9b0a-4a1b-a94b-68d231f5g4ah^|^string^|^Emily Davis^|^https://cdn.credentialregiater.com/4c8d9e0f-0b1a-5b2c-9d0a-79e2a1f6g5bh.png^|^emilydavis@example.com^|^{}^|^2019-08-27T12:15:22Z^|^2019-08-27T12:15:22Z
+6d8e9f0g-0b1b-5c2d-9a0b-79f2a1g7h5ci^|^string^|^Michael Wilson^|^https://cdn.credentialregiater.com/5d9e0f1g-1b2c-6d3e-0b1a-8a0f2b3g7h6ci.png^|^michaelwilson@example.com^|^{}^|^2019-08-28T18:15:22Z^|^2019-08-28T18:15:22Z
+7e9f0g1h-1b2c-6d3e-0a1b-8a0f2b3g7h6dj^|^string^|^Sarah Johnson^|^https://cdn.credentialregiater.com/6e0f1g2h-2c3d-7e4f-1b2a-9b1f3c4g8h7dj.png^|^sarahjohnson@example.com^|^{}^|^2019-08-29T14:15:22Z^|^2019-08-29T14:15:22Z
+8f0g1h2i-2c3d-7e4f-1b2a-9b1f3c4g8h7ek^|^string^|^David Williams^|^https://cdn.credentialregiater.com/7f1g2h3i-3d4e-8f5g-2c3b-0c2f4d5g9h8ek.png^|^davidwilliams@example.com^|^{}^|^2019-08-30T10:15:22Z^|^2019-08-30T10:15:22Z
+9g1h2i3j-3d4e-8f5g-2c3b-0c2f4d5g9h8fl^|^string^|^Jessica Miller^|^https://cdn.credentialregiater.com/8g2h3i4j-4e5f-9g6h-3d4c-1d3f5e6g0h9fl.png^|^jessicamiller@example.com^|^{}^|^2019-08-31T16:15:22Z^|^2019-08-31T16:15:22Z
+0h2i3j4k-4e5f-9g6h-3d4c-1d3f5e6g0h9gm^|^string^|^Thomas Moore^|^https://cdn.credentialregiater.com/9h3i4j5k-5f6g-0h7i-4e5d-2e4f6g7h1i0gm.png^|^thomasmoore@example.com^|^{}^|^2019-09-01T12:15:22Z^|^2019-09-01T12:15:22Z
+1i3j4k5l-5f6g-0h7i-4e5d-2e4f6g7h1i0hn^|^string^|^Sophia Taylor^|^https://cdn.credentialregiater.com/0i4j5k6l-6g7h-1i8j-5f6e-3f5g7h8i2j1hn.png^|^sophiataylor@example.com^|^{}^|^2019-09-02T18:15:22Z^|^2019-09-02T18:15:22Z

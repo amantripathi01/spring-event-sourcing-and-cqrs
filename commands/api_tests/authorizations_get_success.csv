@@ -1,0 +1,11 @@
+id^|^name^|^email^|^createdAt^|^updatedAt
+123e4567-e89b-12d3-a456-426655440000^|^John Doe^|^john.doe@example.com^|^2022-03-01T12:00:00Z^|^2022-03-02T12:00:00Z
+223e4567-e89b-12d3-a456-426655440001^|^Jane Smith^|^jane.smith@example.com^|^2022-03-01T12:01:00Z^|^2022-03-02T12:01:00Z
+323e4567-e89b-12d3-a456-426655440002^|^Bob Johnson^|^bob.johnson@example.com^|^2022-03-01T12:02:00Z^|^2022-03-02T12:02:00Z
+423e4567-e89b-12d3-a456-426655440003^|^Alice Davis^|^alice.davis@example.com^|^2022-03-01T12:03:00Z^|^2022-03-02T12:03:00Z
+523e4567-e89b-12d3-a456-426655440004^|^Charlie Brown^|^charlie.brown@example.com^|^2022-03-01T12:04:00Z^|^2022-03-02T12:04:00Z
+623e4567-e89b-12d3-a456-426655440005^|^David Wilson^|^david.wilson@example.com^|^2022-03-01T12:05:00Z^|^2022-03-02T12:05:00Z
+723e4567-e89b-12d3-a456-426655440006^|^Emma Thomas^|^emma.thomas@example.com^|^2022-03-01T12:06:00Z^|^2022-03-02T12:06:00Z
+823e4567-e89b-12d3-a456-426655440007^|^Frank Taylor^|^frank.taylor@example.com^|^2022-03-01T12:07:00Z^|^2022-03-02T12:07:00Z
+923e4567-e89b-12d3-a456-426655440008^|^Grace Anderson^|^grace.anderson@example.com^|^2022-03-01T12:08:00Z^|^2022-03-02T12:08:00Z
+1023e4567-e89b-12d3-a456-426655440009^|^Harry Jackson^|^harry.jackson@example.com^|^2022-03-01T12:09:00Z^|^2022-03-02T12:09:00Z
