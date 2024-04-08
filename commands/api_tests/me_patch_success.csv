@@ -1,0 +1,11 @@
+name^|^image^|^settings
+JohnDoe^|^data:image/jpeg;base64,iVBORw0KGgoAAAANSU...^|^{"brightness":70,"volume":80,"mode":"night"}
+JaneDoe^|^data:image/jpeg;base64,iVBORw0KGgoAAAANSU...^|^{"brightness":60,"volume":90,"mode":"day"}
+Alice^|^data:image/jpeg;base64,iVBORw0KGgoAAAANSU...^|^{"brightness":50,"volume":75,"mode":"night"}
+Bob^|^data:image/jpeg;base64,iVBORw0KGgoAAAANSU...^|^{"brightness":80,"volume":95,"mode":"day"}
+Charlie^|^data:image/jpeg;base64,iVBORw0KGgoAAAANSU...^|^{"brightness":65,"volume":85,"mode":"night"}
+David^|^data:image/jpeg;base64,iVBORw0KGgoAAAANSU...^|^{"brightness":55,"volume":70,"mode":"day"}
+Eve^|^data:image/jpeg;base64,iVBORw0KGgoAAAANSU...^|^{"brightness":75,"volume":90,"mode":"night"}
+Frank^|^data:image/jpeg;base64,iVBORw0KGgoAAAANSU...^|^{"brightness":85,"volume":100,"mode":"day"}
+Grace^|^data:image/jpeg;base64,iVBORw0KGgoAAAANSU...^|^{"brightness":60,"volume":80,"mode":"night"}
+Helen^|^data:image/jpeg;base64,iVBORw0KGgoAAAANSU...^|^{"brightness":70,"volume":85,"mode":"day"}
